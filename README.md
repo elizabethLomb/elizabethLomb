@@ -1,6 +1,10 @@
-## Hi there, I'm Eli! 👋
+<h1 align="center">
+  Hi there, I'm Eli! 👋
+</h1>
 
-- 🔭 I’m currently working on @onebeyond
+<p align="center">
+  <strong>Full Stack developer 👨‍💻</strong>
+</p>
 
 <!--
 **elizabethLomb/elizabethLomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
