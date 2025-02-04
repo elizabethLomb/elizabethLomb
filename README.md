@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <strong>Full Stack developer </strong>
+  <strong>I'm a passionate **Full Stack Developer** who loves building web apps and exploring new technologies. 🚀 </strong>
   <br /><br />
   👩‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
 </p>
