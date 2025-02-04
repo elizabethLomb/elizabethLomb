@@ -5,8 +5,8 @@
 <p align="center">
   <strong>Full Stack developer </strong>
   <br /><br />
+  👩‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
 </p>
-<br />👩‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
 
 <!--
 **elizabethLomb/elizabethLomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
