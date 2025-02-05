@@ -6,7 +6,7 @@
   <strong>I'm a passionate **Full Stack Developer** who loves building web apps and exploring new technologies. 🚀 </strong>
   <br /> 📚 I studied <strong>Web Development</strong> at <a href="https://www.ironhack.com/es-en" target="_blank">Ironhack</a>
   <br /> 👩‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
-  <br /> 🌱 I’m currently learning <strong>**Next.js & GraphQL**</strong>
+  <br /> 🌱 I’m currently learning <strong>**Terraform & AWS**</strong>
   <br />
   <br /> 📫 Let's <strong>connect:</strong>
   <br />
