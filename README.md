@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Eli! 👋
+  Hi there, I'm Eli! 👋 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="40" height="40" />
 </h1>
 
 <p align="center">
