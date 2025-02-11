@@ -5,7 +5,7 @@
 <p align="center">
   <strong>I'm a passionate **Full Stack Developer** who loves building web apps and exploring new technologies. 🚀 </strong>
   <br /> 📚 I studied <strong>Web Development</strong> at <a href="https://www.ironhack.com/es-en" target="_blank">Ironhack</a>
-  <br /> 👩‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
+  <br /> 👩🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
   <br /> 🌱 I’m currently learning <strong>**Software Design & Architecture**</strong>
   <br />
   <br /> 📫 Let's <strong>connect:</strong>
@@ -15,6 +15,30 @@
   <a href="https://dev.to/elizabethlomb" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
   <a href="https://github.com/elizabethLomb?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<hr/>
+<h2 align="center">
+  💻 Main programming languages
+</h2>
+<div>
+  <div align="center">
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+  	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/></code>
+  </div>
+</div>
+
+<hr/>
+<h2 align="center">
+  🎖 Other languages, technologies and frameworks
+</h2>
+<div>
+  
+</div>
 
 <!--
 **elizabethLomb/elizabethLomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
