@@ -25,6 +25,7 @@
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/>
+  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" alt="Next.js" title="Next.js"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/>
@@ -39,7 +40,7 @@
 </div>
 
 <h2>
-  🌈 My public repos
+  🌈 Public repos
 </h2>
 <div>
   <h4>My repositories are organized and tagged as follows:</h4>
@@ -49,7 +50,7 @@
 </div>
 
 <h2>
-  📈 My stats
+  📈 Github Stats
 </h2>
 <div>
   <img alt="Eli github stats" src="https://github-readme-stats.vercel.app/api?username=elizabethLomb&count_private=true&show_icons=true&ring_color=79ff97&theme=dark&show=reviews,prs_merged&line_height=37" />
