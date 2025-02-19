@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1>
   Hi there, I'm Eli! 👋 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="40" height="40" />
 </h1>
 
-<p align="center">
+<p>
   <strong>I'm a passionate **Full Stack Developer** who loves building web apps and exploring new technologies. 🚀 </strong>
   <br /> 📚 I studied <strong>Web Development</strong> at <a href="https://www.ironhack.com/es-en" target="_blank">Ironhack</a>
   <br /> 👩🏻‍💻 I’m currently working at <strong><a href="https://www.one-beyond.com/" target="_blank">One Beyond</a></strong>
@@ -17,10 +17,10 @@
 </p>
 
 <hr/>
-<h2 align="center">
+<h2>
   💻 Main programming languages
 </h2>
-<div align="center">
+<div>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/>
@@ -31,22 +31,29 @@
 </div>
 
 <hr/>
-<h2 align="center">
+<h2>
   🎖 Other languages, technologies and frameworks
 </h2>
 <div align="center">
   
 </div>
 
-<hr/>
-<h2 align="center">
-  🧳 My public repos
+<h2>
+  🌈 My public repos
 </h2>
-<div align="center">
+<div>
   <h4>My repositories are organized and tagged as follows:</h4>
-  <p><code>howto-</code> for tutorials</p>
-  <p><code>lab-</code> for my experiments</p>
-  <p><code>training-</code> for repositories used for learning or training courses</p>
+  <p>- <code>howto-</code> for tutorials</p>
+  <p>- <code>lab-</code> for my experiments</p>
+  <p>- <code>training-</code> for repositories used for learning or training courses</p>
+</div>
+
+<h2>
+  📈 My stats
+</h2>
+<div>
+  <img alt="Eli github stats" src="https://github-readme-stats.vercel.app/api?username=elizabethLomb&count_private=true&show_icons=true&ring_color=79ff97&theme=dark&show=reviews,prs_merged&line_height=37" />
+  <img alt="Eli Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethLomb&langs_count=10&theme=dark&layout=donut&hide=c%2B%2B" />
 </div>
 
 <!--
