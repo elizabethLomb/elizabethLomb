@@ -34,8 +34,19 @@
 <h2 align="center">
   🎖 Other languages, technologies and frameworks
 </h2>
-<div>
+<div align="center">
   
+</div>
+
+<hr/>
+<h2 align="center">
+  🧳 My public repos
+</h2>
+<div align="center">
+  <h4>My repositories are organized and tagged as follows:</h4>
+  <p><code>howto-</code> for tutorials</p>
+  <p><code>lab-</code> for my experiments</p>
+  <p><code>training-</code> for repositories used for learning or training courses</p>
 </div>
 
 <!--
